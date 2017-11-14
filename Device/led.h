@@ -1,7 +1,7 @@
 #ifndef __LED_H__
 #define __LED_H__
 
-#include "stm32f4xx.h"
+#include "stm32f1xx.h"
 
 #define USER_LED_PORT                     GPIOA
 #define USER_LED_PIN                      GPIO_PIN_5
